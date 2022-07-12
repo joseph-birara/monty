@@ -1,5 +1,5 @@
 # monty
-### Monty: Byte Code Interpreter
+# 0x19. C - Stacks, Queues - LIFO, FIFO
 ------------------------------------------------
   <h4 class="task">
     0. push, pall
